@@ -10,22 +10,4 @@ This repository demonstrates fundamental concepts and security practices in Soli
 
 ## Documentation
 
-For detailed documentation on contract development with Foundry, refer to the [Foundry Book](https://book.getfoundry.sh/).
-
----
-
-## Getting Started
-
-### Requirements
-
-Ensure you have the following tools installed:
-- [Foundry](https://getfoundry.sh/) – for building, testing, and deploying Solidity projects.
-
-### Installation
-
-Clone the repository and install Foundry:
-
-```shell
-$ git clone https://github.com/your-repo/fallback-reentrancy-proxy
-$ cd fallback-reentrancy-proxy
-$ forge install
+Refer to the [Foundry Book](https://solidity-by-example.org/fallback/).
