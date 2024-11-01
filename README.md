@@ -10,4 +10,4 @@ This repository demonstrates fundamental concepts and security practices in Soli
 
 ## Documentation
 
-Refer to the [Foundry Book](https://solidity-by-example.org/fallback/).
+Refer to the [Solidity By Example](https://solidity-by-example.org/fallback/).
